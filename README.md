@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sr-hm
-- 👀 I’m interested in NLP, machine learning, data visualization, and functional programming, 
-- 🌱 I’m currently learning how to do better research
-- 💞️ I’m looking to collaborate on projects exploring the intersection of arts and science
-- 📫 Reach me at [my website](https://srhm.ca/)
+You've reached Sil Hamilton's GitHub repository. Take a look around both here and at [my website](https://srhm.ca/).
 
-<!---
-sr-hm/sr-hm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a graduate student pursuing a Master's in the digital humanities (think compsci/literature) at McGill University. 
+
+I study emergent LLM behaviour, cultural simulacra, and narrative grammars in their modern form. If you'd like to collaborate or discuss machine learning's role in the arts, please reach me at [my email](me@srhm.ca) or IRC (`srhm` on Libera).
