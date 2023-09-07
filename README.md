@@ -4,7 +4,7 @@
 
 📰 My work has been discussed by [NBC](https://www.nbcnews.com/tech/chatgpt-can-generate-essay-generate-rcna60362), [The Financial Times](sil@srhm.ca), and [Le Devoir](https://www.ledevoir.com/culture/medias/774857/intelligence-artificielle-quelle-objectivite). 
 
-📢 I've given talks at for Harvard's [CS50 (Introduction to Computer Science)](https://www.youtube.com/watch?v=vw-KWfKwvTQ), the [Nieman Foundation for Journalism](https://nieman.harvard.edu/), the [Brown Institute for Media Innovation](https://brown.columbia.edu/), and the [Computer History Museum](https://computerhistory.org/) in Mountain View, California. I'm instructing a course on [GenAI at the Knight Center at UTAustin](https://journalismcourses.org/course/how-to-use-chatgpt-and-other-generative-ai-tools-in-your-newsrooms/).
+📢 I've given talks at for Harvard's [CS50 (Introduction to Computer Science)](https://www.youtube.com/watch?v=vw-KWfKwvTQ), the [Nieman Foundation for Journalism](https://nieman.harvard.edu/), the [Brown Institute for Media Innovation](https://brown.columbia.edu/), and the [Computer History Museum](https://computerhistory.org/) in Mountain View, California. I'm also teaching a course on [GenAI at the Knight Center at UTAustin](https://journalismcourses.org/course/how-to-use-chatgpt-and-other-generative-ai-tools-in-your-newsrooms/).
 
 👥 I’m looking to collaborate! Talk to me on [Twitter](https://twitter.com/srhm_ca), over [email](sil@srhm.ca), and through [LinkedIn](https://www.linkedin.com/in/srhm). I’m also on [Libera](https://libera.chat/) and [OFTC](https://oftc.net/) as `srhm`. 
 
